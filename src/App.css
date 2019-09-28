@@ -1,3 +1,12 @@
+body {
+  font: 14px "Century Gothic", Futura, sans-serif;
+  margin:2rem;
+}
+p {
+  font-size: 2rem;
+}
+
+
 .App {
   text-align: center;
 }
